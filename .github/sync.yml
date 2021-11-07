@@ -1,3 +1,4 @@
 ManiacDC/FolderSync2:
-  - SyncFolder/
+  - source: SyncFolder/
+    dest: SyncFolder/
     deleteOrphaned: true
